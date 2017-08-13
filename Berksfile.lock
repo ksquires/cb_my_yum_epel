@@ -1,0 +1,7 @@
+DEPENDENCIES
+  my_yum_epel
+    path: .
+    metadata: true
+
+GRAPH
+  my_yum_epel (0.2.1)
